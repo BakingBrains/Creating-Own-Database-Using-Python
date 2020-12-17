@@ -1,7 +1,7 @@
 # Creating-Own-Database-Using-Python
 Creating our own Database using python
 
-#Required Libraries:
+# Required Libraries:
 
 pip install tkinter
 
